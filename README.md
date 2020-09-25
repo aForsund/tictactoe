@@ -1,6 +1,9 @@
 # tictactoe
 Tic Tac Toe demo with computer vs computer mode. Client and server files are located in respective branches.
 
+[Vue.js Client](https://github.com/aForsund/tictactoe/tree/vuejs_client)
+[Node.js Server](https://github.com/aForsund/tictactoe/tree/nodejs_server)
+
 This app is built with vue.js and styled with Bulma CSS framework. App is served by express with API interface and mongoDB.
 
 ### Front end
