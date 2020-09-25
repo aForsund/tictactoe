@@ -14,9 +14,8 @@ This app is built with vue.js and styled with Bulma CSS framework. App is served
 - Express passport and JWT
 - mongoDB
 
-Front end is based on Vue CLI template. Back end is based on a [JWT tutorial by Zach Gollwitzer](https://github.com/zachgoll/express-jwt-authentication-starter) and customized as required.
+Front end is based on Vue CLI template. Back end is based on a [JWT tutorial by Zach Gollwitzer](https://github.com/zachgoll/express-jwt-authentication-starter) with custom API and database integration.
 
 
 
 More functionality and refactoring of code in progress. Future updates will be added to [tictactoe_v2 repository](https://github.com/aForsund/tictactoe_v2)
-
